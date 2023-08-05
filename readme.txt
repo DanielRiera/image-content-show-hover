@@ -3,8 +3,8 @@ Contributors: DanielRiera
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GNJT6Z9VX6ZL
 Tags: hover content, image hover content, hover imagen, show content image hover
 Requires at least: 3.0.1
-Tested up to: 5.0.3
-Stable tag: 1.0.5
+Tested up to: 6.2.2
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Image Style Hover - Displays content when you hover on image
 
 Displays content when you hover on image
 
-Using: [image-hover style="" image="" corners="" text=""]Content Text or HTML[/image-hover]
+Using: [image_hover style="" image="" corners="" text=""]Content Text or HTML[/image_hover]
 
 * All params optionals
 
@@ -26,25 +26,15 @@ Install from plugins manager in your wordpress or unzip file and upload in /wp-c
 
 = Fast and Easy =
 
-Using: [image-hover style="" image="" corners="" text=""]Content Text or HTML[/image-hover]
+Using: [image_hover style="" image="" corners="" text=""]Content Text or HTML[/image_hover]
 
 == Screenshots  ==
 
 
 == Changelog ==
 
-= 1.0 =
-	- Init Plugin
-= 1.0.1 =
-	- Fixed Image and Link
-= 1.0.2 =
-	- Logical Link
-= 1.0.3 =
-	- Fixed CSS Width/Height
+= 1.0.6 =
+	- Update need, readme file with correct shortcode
+
 = 1.0.5 =
 	- Validation
-
-== Upgrade Notice ==
-
-- 1.0
-	- Init
